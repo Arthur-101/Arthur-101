@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **arthur14202000@gmail.com**
 
-- ⚡ Fun fact, **I think I am a Good Coder.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur-101&show_icons=true&locale=en" alt="arthur-101" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthur-101&" alt="arthur-101" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthur-101&" 
