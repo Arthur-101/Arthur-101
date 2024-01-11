@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthur-101&label=Profile%20views&color=0e75b6&style=flat" alt="arthur-101" /> </p>
 
-![](https://github-profile-trophy.vercel.app/?username=Arthur-101&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+<kbd>![](https://github-profile-trophy.vercel.app/?username=Arthur-101&theme=discord&no-frame=true&no-bg=false&margin-w=4)</kbd>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthur-101" alt="arthur-101" /></a> </p> -->
 
 - I'm a **School Student**
@@ -35,6 +35,6 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Arthur-101&show_icons=true&theme=bear" width="400">
  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Arthur-101&theme=dark&hide_border=true" width="400">
+  <kbd> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Arthur-101&theme=dark&hide_border=true" width="400"> </kbd>
 </p>
 <!-- </p> -->
