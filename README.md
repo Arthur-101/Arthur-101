@@ -26,6 +26,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-101&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
-[![Arthur's github stats](https://github-readme-stats.vercel.app/api?username=Arthur-101&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/Arthur-101)
+<!-- [![Arthur's github stats](https://github-readme-stats.vercel.app/api?username=Arthur-101&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/Arthur-101) -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthur-101& alt="arthur-101" /></p> 
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthur-101& alt="arthur-101" /></p>  -->
+
+
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Arthur-101&show_icons=true&theme=bear" width="400">
+ 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Arthur-101&theme=dark&hide_border=true" width="400">
+</p>
+<!-- </p> -->
