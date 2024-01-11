@@ -42,6 +42,7 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Arthur-101&show_icons=true&theme=bear" width="400">
  
-  <kbd> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Arthur-101&theme=dark&hide_border=true" width="400"> </kbd>
+  <!-- <kbd> <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Arthur-101&theme=dark&hide_border=true" width="400"> </kbd> -->
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats))
 </p>
 <!-- </p> -->
