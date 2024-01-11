@@ -43,9 +43,10 @@
 <img  height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-101&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28"/>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Arthur-101&show_icons=true&theme=bear" width="467 ">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Arthur-101&show_icons=true&theme=bear" width="400 ">
 
-  [![GitHub Streak](https://github-readme-streak-stats-theta-ochre.vercel.app?user=Arthur-101&theme=bear&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-theta-ochre.vercel.app?user=Arthur-101&theme=bear&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="420" /></a>
+  <!-- [![GitHub Streak](https://github-readme-streak-stats-theta-ochre.vercel.app?user=Arthur-101&theme=bear&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
   <!-- <kbd> <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Arthur-101&theme=dark&hide_border=true" width="400"> </kbd> -->
   <!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=Arthur-101&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&type=json) -->
 </p>
