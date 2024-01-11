@@ -16,8 +16,8 @@
 
 <!--<li> 💻 First <b>Deployed Spring Boot Web Application</b>: <a href="https://dictionaryapp.azurewebsites.net">Click here</a> to launch the application.</li> -->
 <li><b>A Night Owl   <img src="https://github.com/Arthur-101/Arthur-101/blob/main/Items/owl2.png" width="20px"></b></li>
-<li>⚡ Fun fact: <b>I am always eager to learn something new from others.</b></li>
-<li>🔭 Currently working on <b>Store-Management-System for a school Project</b></li>
+<li>⚡ Fun fact: <b>I am always eager to learn something new from others</b></li>
+<li>🔭 Currently working on <b>Store-Management-System </b>for a school Project</li>
 <li>🌱 I’m currently learning <b>Data Manipulation</b></li>
 <li>👨‍💻 All of my projects are available at <b>[https://github.com/Arthur-101?tab=repositories](https://github.com/Arthur-101?tab=repositories)</b></li>
 <li>📫 How to reach me : <b>arthur14202000@gmail.com</b></li>
@@ -27,6 +27,7 @@
 <!-- Troophies.. -->
 <!-- <kbd>![](https://github-profile-trophy.vercel.app/?username=Arthur-101&theme=discord&no-frame=true&no-bg=false&margin-w=4)</kbd> -->
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Arthur-101&theme=onedark&no-frame=False&row=1&&margin-w=20&no-bg=true"> 
+<h2 align="left"> </h2>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthur-101" alt="arthur-101" /></a> </p> -->
 
 <!--
@@ -48,7 +49,14 @@
 <h2 align="center">⚡ STATS ⚡</h2>
 <!-- ![](https://github.com/Arthur-101/Arthur-101/blob/main/Items/stats1.gif) -->
 
-<img  height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-101&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28"/>
+<img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arthur-101&theme=bear&show_icons=true&bg_color=0111111"> 
+
+<p>
+  <img align="left"  height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-101&layout=compact&title_color=e03d8b&text_color=bbb08c&icon_color=007bff&bg_color=1e2123"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arthur-101&theme=bear&utcOffset=8" alt="Commits per day badge"/>
+</p>
+
+<h3 align="center">  </h3>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Arthur-101&show_icons=true&theme=bear" width="400 ">
