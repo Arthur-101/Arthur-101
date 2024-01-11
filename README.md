@@ -18,9 +18,9 @@
 <li><b>A Night Owl   <img src="https://github.com/Arthur-101/Arthur-101/blob/main/Items/owl2.png" width="20px"></b></li>
 <li>⚡ Fun fact: <b>I am always eager to learn something new from others.</b></li>
 <li>🔭 Currently working on <b>Store-Management-System for a school Project</b></li>
-<li><b>🌱 I’m currently learning Data Manipulation</b></li>
-<li><b>👨‍💻 All of my projects are available at [https://github.com/Arthur-101?tab=repositories](https://github.com/Arthur-101?tab=repositories)</b></li>
-<li><b>📫 How to reach me : arthur14202000@gmail.com</b></li>
+<li>🌱 I’m currently learning <b>Data Manipulation</b></li>
+<li>👨‍💻 All of my projects are available at <b>[https://github.com/Arthur-101?tab=repositories](https://github.com/Arthur-101?tab=repositories)</b></li>
+<li>📫 How to reach me : <b>arthur14202000@gmail.com</b></li>
 <h3 align="center"> </h3>
 <h2 align="center">  </h2>
 
