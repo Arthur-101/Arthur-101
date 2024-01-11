@@ -25,7 +25,8 @@
 <h2 align="center">  </h2>
 
 <!-- Troophies.. -->
-<kbd>![](https://github-profile-trophy.vercel.app/?username=Arthur-101&theme=discord&no-frame=true&no-bg=false&margin-w=4)</kbd>
+<!-- <kbd>![](https://github-profile-trophy.vercel.app/?username=Arthur-101&theme=discord&no-frame=true&no-bg=false&margin-w=4)</kbd> -->
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Arthur-101&theme=onedark&no-frame=False&row=1&&margin-w=20&no-bg=true"> 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthur-101" alt="arthur-101" /></a> </p> -->
 
 <!--
@@ -44,6 +45,7 @@
 <!-- Stats Here.... -->
 <img src="https://github.com/Arthur-101/Arthur-101/blob/main/Items/red_line_border.gif" width="1000">
 
+<h2 align="center">⚡ STATS ⚡</h2>
 <!-- ![](https://github.com/Arthur-101/Arthur-101/blob/main/Items/stats1.gif) -->
 
 <img  height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-101&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28"/>
