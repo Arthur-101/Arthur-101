@@ -1,6 +1,13 @@
 <h1 align="center">Hi <img src="https://github.com/Arthur-101/Arthur-101/blob/main/Items/wave1.gif" width="30px">, I'm Saurav</h1>
 <h3 align="center">A passionate Learner from India</h3>
 
+<!--
+<p>
+  <img align="center" src="https://github.com/Arthur-101/Arthur-101/blob/main/Items/git1.jpeg" width="250px">
+  <h3 align="center"> </h3>
+</p>
+-->
+
 <!-- View Count... -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthur-101&label=Profile%20views&color=0e75b6&style=flat" alt="arthur-101" /> </p>
 
