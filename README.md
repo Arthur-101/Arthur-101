@@ -26,7 +26,7 @@
 <li>⚡ Fun fact: <b>I am always eager to learn something new from others</b></li>
 <li>🔭 Currently working on <b>Store-Management-System </b>for a school Project</li>
 <li>🌱 I’m currently learning <b>Data Manipulation</b></li>
-<li>👨‍💻 All of my projects are available at <b>[https://github.com/Arthur-101?tab=repositories](https://github.com/Arthur-101?tab=repositories)</b></li>
+<li>👨‍💻 All of my projects are available at <b>[https://github.com/Arthur-101?tab=repositories]</b></li>
 <li>📫 How to reach me : <b>arthur14202000@gmail.com</b></li>
 <h3 align="center"> </h3>
 <h2 align="center">  </h2>
