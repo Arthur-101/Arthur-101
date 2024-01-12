@@ -49,11 +49,11 @@
 <h2 align="center">⚡ STATS ⚡</h2>
 <!-- ![](https://github.com/Arthur-101/Arthur-101/blob/main/Items/stats1.gif) -->
 
-<img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arthur-101&theme=bear&show_icons=true&bg_color=0111111"> 
+<img align="center" width="835" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arthur-101&theme=bear&show_icons=true&bg_color=0111111"> 
 
 <p>
   <img align="left"  height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-101&layout=compact&title_color=e03d8b&text_color=bbb08c&icon_color=007bff&bg_color=1e2123"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arthur-101&theme=bear&utcOffset=8" alt="Commits per day badge"/>
+  <img align="center" width="350" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arthur-101&theme=bear&utcOffset=8" alt="Commits per day badge"/>
 </p>
 
 <h3 align="center">  </h3>
