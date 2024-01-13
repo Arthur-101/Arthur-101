@@ -72,3 +72,9 @@
   <!-- [![GitHub Streak](https://github-readme-streak-stats-theta-ochre.vercel.app?user=Arthur-101&theme=bear&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 </p>
 <!-- </p> -->
+
+<p>
+  <img align="left" src="https://github.com/Arthur-101/Arthur-101/blob/main/Items/fire1.gif" width="200px">
+  <img align="center" src="https://github.com/Arthur-101/Arthur-101/blob/main/Items/fire1.gif" width="200px">
+  <img align="right" src="https://github.com/Arthur-101/Arthur-101/blob/main/Items/fire1.gif" width="200px">
+</p>
