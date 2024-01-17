@@ -30,9 +30,22 @@
 <li>👨‍💻 All of my projects are available <a href="https://github.com/Arthur-101?tab=repositories">here</a></li>
 <li>📫 How to reach me : <b>arthur14202000@gmail.com</b></li>
 <h3 align="center"> </h3>
-<h2 align="center">  </h2>
+<!-- <h2 align="center">  </h2>  -->
 
-<!-- Troophies.. -->
+```Python linenos
+import life
+
+while True:
+  if life. alive():
+    LearnSomethingNew()
+  else:
+    break
+
+# Code is like the humor, When you have to explain it, it's bad.
+```
+
+<!-- Trophies.. -->
+<h2 align="center">Trophies</h2>
 <!-- <kbd>![](https://github-profile-trophy.vercel.app/?username=Arthur-101&theme=discord&no-frame=true&no-bg=false&margin-w=4)</kbd> -->
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Arthur-101&theme=onedark&no-frame=False&row=1&&margin-w=20&no-bg=true"> 
 <h2 align="left"> </h2>
