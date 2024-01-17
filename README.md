@@ -30,9 +30,7 @@
 <li>👨‍💻 All of my projects are available <a href="https://github.com/Arthur-101?tab=repositories">here</a></li>
 <li>📫 How to reach me : <b>arthur14202000@gmail.com</b></li>
 <h3 align="center"> </h3>
-<h3 align="center"> </h3>
-<h3 align="center"> </h3>
-<!-- <h2 align="center">  </h2>  -->
+<h2 align="center">  </h2>
 
 ```Python linenos
 import life
