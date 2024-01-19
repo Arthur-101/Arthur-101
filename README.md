@@ -23,7 +23,8 @@
 
 <!--<li> 💻 First <b>Deployed Spring Boot Web Application</b>: <a href="https://dictionaryapp.azurewebsites.net">Click here</a> to launch the application.</li> -->
 <li><b>A Night Owl   <img src="https://github.com/Arthur-101/Arthur-101/blob/main/Items/owl2.png" width="20px"></b></li>
-<li>⚡ Fun fact: <b>I am always eager to learn something new from others</b></li>
+<li>🎮 Entertainment : Plays <b>Clash Royale</b> and watches <b>Anime</b></li>
+<li>⚡ Fun fact : <b>I am always eager to learn something new from others</b></li>
 <li>🔭 Currently working on <b>Store-Management-System </b>for a school Project</li>
 <li>🌱 I’m currently learning <b>Data Manipulation</b></li>
 <!-- <li>👨‍💻 All of my projects are available at <b>[https://github.com/Arthur-101?tab=repositories]</b></li> -->
