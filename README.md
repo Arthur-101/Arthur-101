@@ -37,7 +37,7 @@
 import life
 
 while True:
-  if life. alive():
+  if life.alive():
     LearnSomethingNew()
   else:
     break
