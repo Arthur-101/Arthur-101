@@ -61,8 +61,38 @@ while True:
 
 <!-- Tools...  -->
 <img src="https://github.com/Arthur-101/Arthur-101/blob/main/Items/red_line_border.gif" width="1000">
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<h3 
+  align="left">Languages and Tools:
+</h3>
+
+<p align="left"> 
+  <!--   Python -->
+  <a
+    href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <!--   Rust -->
+  <a 
+    href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="40" height="40"/> 
+  </a>
+  <!--   MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <!--   SQLite -->
+  <a 
+    href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+  </a> 
+  <!--   Blender -->
+  <a 
+    href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" 
+     width="40" height="40"/> 
+  </a> 
+</p>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-101&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28) -->
 
