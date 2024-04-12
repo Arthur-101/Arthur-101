@@ -75,7 +75,7 @@ while True:
   <!--   Rust -->
   <a 
     href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="40" height="40"/> 
+    <img src="https://github.com/Arthur-101/Arthur-101/blob/main/Items/rust.png" alt="rust" width="40" height="40"/> 
   </a>
   <!--   MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
