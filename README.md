@@ -16,7 +16,7 @@
   </div>
   <br>
   <div align ="left">
-    <p><b>I am SAURAV KUMAR, a High School student. I am a quick learner who loves to connect with people, learn new things and try to understand it in my life.</p>
+    <p><b>I am SAURAV KUMAR, a First Year student. I am a quick learner who loves to connect with people, learn new things and try to understand it in my life.</p>
     </b>
 </div><br>
 <br>
