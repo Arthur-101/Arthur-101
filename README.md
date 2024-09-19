@@ -73,10 +73,10 @@ while True:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <!--   Rust -->
-  <a 
+<!--   <a 
     href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Arthur-101/Arthur-101/blob/main/Items/rust.png" alt="rust" width="40" height="40"/> 
-  </a>
+  </a> -->
   <!--   MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
