@@ -25,8 +25,8 @@
 <li><b>A Night Owl   <img src="https://github.com/Arthur-101/Arthur-101/blob/main/Items/owl2.png" width="20px"></b></li>
 <li>🎮 Entertainment : Plays <b>Clash Royale</b> and watches <b>Anime</b></li>
 <li>⚡ Fun fact : <b>I am always eager to learn something new from others</b></li>
-<li>🔭 Currently working on <b>Running AI Model Locally </b> </li>
-<li>🌱 I’m currently learning about <b>AI</b></li>
+<li>🔭 Currently working on <b>Options Flow Analyzers </b> </li>
+<li>🌱 I’m currently learning about <b>Options Flow</b></li>
 <!-- <li>👨‍💻 All of my projects are available at <b>[https://github.com/Arthur-101?tab=repositories]</b></li> -->
 <li>👨‍💻 All of my projects are available <a href="https://github.com/Arthur-101?tab=repositories">here</a></li>
 <li>📫 How to reach me : <b>arthur14202000@gmail.com</b></li>
