@@ -1,125 +1,82 @@
-<h1 align="center">Hi <img src="https://github.com/Arthur-101/Arthur-101/blob/main/Items/wave1.gif" width="30px">, I'm Saurav</h1>
-<h3 align="center">A passionate Learner from India</h3>
-
-<!--
-<p>
-  <img align="center" src="https://github.com/Arthur-101/Arthur-101/blob/main/Items/git1.jpeg" width="250px">
-  <h3 align="center"> </h3>
+<p align="center">
+  <img src="https://github.com/Arthur-101/Arthur-101/blob/main/Items/coder1.gif" width="220" alt="coding illustration" />
 </p>
--->
 
-<!-- View Count... -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arthur-101&label=Profile%20views&color=0e75b6&style=flat" alt="arthur-101" /> </p>
+<h1 align="center">Hi, I'm Saurav Kumar 👋</h1>
+<h3 align="center">Third-year Computer Science student &amp; AI enthusiast</h3>
 
-  <div align ="center">
-    <img align ="right" alt="BoyWhoCodes"  width="300" src="https://github.com/Arthur-101/Arthur-101/blob/main/Items/coder1.gif" />
-  </div>
-  <br>
-  <div align ="left">
-    <p><b>I am SAURAV KUMAR, a First Year student. I am a quick learner who loves to connect with people, learn new things and try to understand it in my life.</p>
-    </b>
-</div><br>
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arthur-101&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<!--<li> 💻 First <b>Deployed Spring Boot Web Application</b>: <a href="https://dictionaryapp.azurewebsites.net">Click here</a> to launch the application.</li> -->
-<li><b>A Night Owl   <img src="https://github.com/Arthur-101/Arthur-101/blob/main/Items/owl2.png" width="20px"></b></li>
-<li>🎮 Entertainment : Plays <b>Clash Royale</b> and watches <b>Anime</b></li>
-<li>⚡ Fun fact : <b>I am always eager to learn something new from others</b></li>
-<!-- <li>🔭 Currently working on <b>Options Flow Analyzers </b> </li>
-<li>🌱 I’m currently learning about <b>Options Flow</b></li> -->
-<!-- <li>👨‍💻 All of my projects are available at <b>[https://github.com/Arthur-101?tab=repositories]</b></li> -->
-<li>👨‍💻 All of my projects are available <a href="https://github.com/Arthur-101?tab=repositories">here</a></li>
-<li>📫 How to reach me : <b>arthur14202000@gmail.com</b></li>
-<h3 align="center"> </h3>
-<h2 align="center">  </h2>
+---
 
-```Python linenos
-import life
+### 👨‍💻 About Me
 
-while True:
-  if life.alive():
-    LearnSomethingNew()
-  else:
-    break
+- 🎓 B.Tech Computer Science @ Poornima University, Jaipur (2024–2028)
+- 🤖 Building **AI agents** and **LLM-powered applications**
+- 🔭 Currently exploring Agentic AI, MCP-style architectures, and market analytics
+- 📫 Reach me at **arthur14202000@gmail.com**
+- ⚡ Fun fact: I love learning something new from everyone I meet
 
-# Code is like the humor, When you have to explain it, it's bad.
-```
+---
 
-<!-- Trophies.. -->
-<h2 align="center">Trophies</h2>
-<!-- <kbd>![](https://github-profile-trophy.vercel.app/?username=Arthur-101&theme=discord&no-frame=true&no-bg=false&margin-w=4)</kbd> -->
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=Arthur-101&theme=onedark&no-frame=False&row=1&&margin-w=20&no-bg=true"> 
-<h2 align="left"> </h2>
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthur-101" alt="arthur-101" /></a> </p> -->
+### 🛠️ Tech Stack
 
-<!--
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-</p>
--->
-
-
-<!-- Tools...  -->
-<img src="https://github.com/Arthur-101/Arthur-101/blob/main/Items/red_line_border.gif" width="1000">
-
-<h3 
-  align="left">Languages and Tools:
-</h3>
-
-<p align="left"> 
-  <!--   Python -->
-  <a
-    href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <!--   Rust -->
-<!--   <a 
-    href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Arthur-101/Arthur-101/blob/main/Items/rust.png" alt="rust" width="40" height="40"/> 
-  </a> -->
-  <!--   MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <!--   SQLite -->
-  <a 
-    href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
-  <!--   Blender -->
-  <a 
-    href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" 
-     width="40" height="40"/> 
-  </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-101&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28) -->
+---
 
-<!-- Stats Here.... -->
-<img src="https://github.com/Arthur-101/Arthur-101/blob/main/Items/red_line_border.gif" width="1000">
+### 📌 Featured Projects
 
-<h2 align="center">⚡ STATS ⚡</h2>
-<!-- ![](https://github.com/Arthur-101/Arthur-101/blob/main/Items/stats1.gif) -->
+- [**AgenticAI**](https://github.com/Arthur-101/AgenticAI) — Multi-model AI agent system using APIs with MCP-style architecture. Routes tasks to specialized models and manages multiple tool executions.
+- [**Option Flow Analyzer**](https://github.com/Arthur-101/Option-Flow-Analyzer) — AI-powered NSE options flow monitor that detects unusual activity in NIFTY index options and generates trading theses using LLMs.
+- [**CampusSuite**](https://github.com/Arthur-101/CampusSuite) — Web app for organizing rooms, shared files, and discussions; includes a student management and attendance system for schools.
 
-<img align="center" width="835" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arthur-101&theme=bear&show_icons=true&bg_color=0111111"> 
+> See all of my projects [here](https://github.com/Arthur-101?tab=repositories).
 
-<p>
-  <img align="left"  height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-101&layout=compact&title_color=e03d8b&text_color=bbb08c&icon_color=007bff&bg_color=1e2123"/>
-  <img align="center" width="350" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arthur-101&theme=bear&utcOffset=8" alt="Commits per day badge"/>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arthur-101&show_icons=true&theme=bear" alt="github stats" width="420" />
+  <img src="https://github-readme-streak-stats-theta-ochre.vercel.app?user=Arthur-101&theme=bear&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="github streak" width="420" />
 </p>
 
-<h3 align="center">  </h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Arthur-101&show_icons=true&theme=bear" width="400 ">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-theta-ochre.vercel.app?user=Arthur-101&theme=bear&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="420" /></a>
-  <!-- [![GitHub Streak](https://github-readme-streak-stats-theta-ochre.vercel.app?user=Arthur-101&theme=bear&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-101&layout=compact&theme=bear" alt="top languages" width="420" />
 </p>
-<!-- </p> -->
 
-<p>
-  <img align="left" src="https://github.com/Arthur-101/Arthur-101/blob/main/Items/fire1.gif" width="200px">
-  <img align="right" src="https://github.com/Arthur-101/Arthur-101/blob/main/Items/fire1.gif" width="200px">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arthur-101&theme=bear" alt="profile summary" width="700" />
 </p>
- 
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="mailto:arthur14202000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-LinkedIn-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Arthur-101">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
