@@ -69,8 +69,8 @@
 
 
 <p align="left">
-    <img src="https://github-readme-stats.shion.dev/api?username=Arthur-101&theme=bear&hide_border=true&include_all_commits=false&count_private=true"  />
-    <img src="https://streak-stats.demolab.com/?user=Arthur-101&theme=bear&hide_border=true"  />
+    <img src="https://github-readme-stats.shion.dev/api?username=Arthur-101&theme=bear&hide_border=true&include_all_commits=false&count_private=true" height="300"  />
+    <img src="https://streak-stats.demolab.com/?user=Arthur-101&theme=bear&hide_border=true&layout=compact"  height="300"/>
 </p>
 <p align="left">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Arthur-101&theme=bear&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
