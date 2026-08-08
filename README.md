@@ -68,11 +68,14 @@
 -->
 
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.shion.dev/api?username=Arthur-101&theme=bear&hide_border=true&include_all_commits=false&count_private=true"  />
     <img src="https://streak-stats.demolab.com/?user=Arthur-101&theme=bear&hide_border=true"  />
 </p>
-
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Arthur-101&theme=bear&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arthur-101&theme=bear" alt="profile summary" width="580" />
+</p>
 <!--
 <p align="center">
   <img src="https://github-readme-streak-stats-theta-ochre.vercel.app?user=Arthur-101&theme=bear&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="github streak" width="420" />
@@ -83,10 +86,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-101&layout=compact&theme=bear" alt="top languages" width="420" />
 </p> -->
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Arthur-101&theme=bear&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arthur-101&theme=bear" alt="profile summary" width="580" />
-</p>
+
 
 ---
 
